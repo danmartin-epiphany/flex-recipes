@@ -1,0 +1,9 @@
+epiphany_fusion_lib:
+    enable_user_switching: true
+    use_fusion_oauth: true
+    client_timeout: 30
+
+parameters:
+    epiphany.fusion.secret: ''
+    epiphany.fusion.version: ''
+    epiphany.fusion.host: ''
